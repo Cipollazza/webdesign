@@ -6,9 +6,14 @@
 }
 h1 {
     font-size: 32px;
+    color: rgb(13, 35, 67);
 }
 .testo {
-    font-size: 12pt;
+    font-size: 15px;
     line-height: 1.5;
     text-align: justify;
+    color: rgb(13, 35, 67);
+}  
+Body {
+    background: rgb(74, 185, 148);
 }
